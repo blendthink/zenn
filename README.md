@@ -3,6 +3,11 @@
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 ```shell
+brew install nodenv
+nodenv install
+
+npm install
+
 # 新しい記事を作成する
 npx zenn new:article
 
